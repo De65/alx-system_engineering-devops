@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . ../boot -la
+chmod -R ugo+X
